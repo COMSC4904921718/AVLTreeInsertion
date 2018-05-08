@@ -1,0 +1,4 @@
+Key - number value of a node.
+leftRotate - performs a left rotation of a tree.
+rightRotation - performs a right rotation of a tree.
+Balance - difference between the heights of the two child subtrees of any node.
